@@ -1,0 +1,46 @@
+.container-bar-graph {
+    width: 90%;
+    border: 3px solid rgb(255, 255, 255);
+    height: 382px;
+    border-radius: 20px;
+    background-color: white;
+}
+.top-bar-graph {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.bottom-bar-graph {
+    height: 80%;
+}
+.circle {
+    padding: 2px;
+    border-radius: 20px;
+    margin-right: 5px;
+}
+
+.green {
+    background-color: hsl(150, 86%, 49%) ;
+}
+
+.orange {
+    background-color: hsl(44, 85%, 50%);
+}
+
+.blue {
+    background-color: hsl(180, 100%, 50%);
+}
+
+.mehendicolor {
+    background-color: hsl(93, 53%, 54%);
+}
+
+.chart-icon-contianer {
+    width: 30px;
+    background-color: rgb(244, 243, 239);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    border-radius: 10px;
+}

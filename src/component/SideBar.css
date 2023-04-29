@@ -1,0 +1,102 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&display=swap');
+.top-container
+{
+    display: flex;
+    flex-direction: column;
+}
+
+
+  p{
+    margin: 0;
+    font-size: 14px;
+  }
+.heading{
+    width: 133px;
+    height: 41px;
+    margin-left: 18px;
+    margin-top: 24px;
+    font-family: 'Inter';
+    font-weight: light;
+}
+
+.dashboard{
+    width: 101px;
+    height: 20px;
+    margin-left: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    margin-top: 37px;
+    line-height: 20px;
+    color: #9D9FA1;
+}
+
+.dashboard-container{
+    /* display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center; */
+    gap: 16px;
+
+    width: 232px;
+    height: 186px;
+
+    background: #FFFFFF;
+}
+
+.options{
+    margin-top: 10px;
+    gap: 16px
+}
+
+.options p{
+    margin-top: 12px;
+    margin-left: 48px;
+}
+
+.logo2{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.pages{
+    width: 53px;
+    height: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 20px;
+    color: #9D9FA2;
+    margin-left: 20px;
+    margin-top: 32px;
+}
+
+.help{
+    display: flex;
+    align-items: center;
+    margin-left: 22.5px;
+    height: 46px;
+}
+
+.file{
+    display: flex;
+    align-items: center;
+    margin-left: 22.5px;
+    height: 46px;
+   
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 20px;
+    height: 44px;
+    justify-content: space-between;
+    border: 1px solid #EAECF0;
+
+}

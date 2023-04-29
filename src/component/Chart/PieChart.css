@@ -1,0 +1,21 @@
+.container-pie-chart {
+    width: 95%;
+    border: 3px solid rgb(255, 255, 255);
+    height: 382px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.top-pie-chart {
+    height: 10%;
+    text-align: center;
+}
+
+.middle-pie-chart {
+    height: 50%;
+}
+
+.bottom-pie-chart {
+    margin-inline: 15% ;
+    height: 40%;
+}
